@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Website Link: https://vigorous-sammet-264028.netlify.app/
+Website Link: https://determined-bartik-164190.netlify.app/
 
 ## Available Scripts
 
