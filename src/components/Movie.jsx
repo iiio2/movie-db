@@ -1,10 +1,8 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 
 const config = 'https://image.tmdb.org/t/p/';
 
 const Movie = ({ movies }) => {
-  console.log(movies);
   return (
     <div className='row'>
       {movies.map((movie) => (
